@@ -1,0 +1,2248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vg version="800" range="0,0,1920,1080" borderstyle="1" backcolor="$FFFF00" pattern="1" papervisible="false">
+<sheet name="主界面" description="0000000016776960000000000000000000000000                                                  0000000000000000000000000000048100000273000000000000000000000000000000000000000000000000                                                                      " visible="false" hint="01 COM1 连接           000000190000000000040003000100000000000000010020000000002 COM2 连接           0000001900000000000400030001000000000000000100200000000000170000048102730001001000010010000500010000000011110000222200003333000044440000555500006666000077770000888800000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    0000010000000000                    00000000000100000000000000600000000000000060010000000000                    010000000000                    010000000000                    010000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    0000000000000000                    00000000100010000000012009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000002009000400010012000000000000000000000          000        0RSCOM_Mark0001LoadPic_Mark0000PIC_PATH_MARKEND_PIC_PATH_MARKPRESS_MARK0100000000END_PRESS_MARK                              " showHint="false">
+<rect name="rect1" description="SP0000
+主界面.jpg
+主界面.jpg
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="38,32" bounds="0,0,481,273" selectmode="0" id="57" pattern="254" picture="主界面.jpg" linetype="0"/>
+<rect name="Lock1" description="0000001000                                   00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                0001                              " origin="38,32" bounds="481,0,100481,100000" locked="true" id="100" hint="0000001000                                   00000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000000                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                000000000000000000000000000000000001                              " showHint="false" backcolor="$0" pattern="1" linetype="0"/>
+<rect name="Lock2" origin="38,32" bounds="0,273,100000,100273" locked="true" id="100" hint="ibbkcxfadbbvcnfchaaxgjbhhggfboifbjavficleyajdhfibxgzcmeigxhnhd" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
+<rect name="Lock3" origin="38,32" bounds="0,273,481,273" locked="true" id="100" hint="heizhwczbchbcuccbabjiljdbtgrddaphvflcxhhavffey:SYSC:20240110223750:ENDSYS:StartVersionNum:V6.1.0.11:endVersionNum1@SVerNum:2@EndVerNum1" showHint="false" pattern="1" linecolor="$FFFFFF"/>
+<rect name="Lock4" description="0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     0000000000000000000000000                     0000000                     0000000                     ExsitGoableMacrio10100201ExsitInitMacrio10100101ExsitFreq0020                                                                                                    " origin="38,32" bounds="481,0,481,273" locked="true" id="100" hint="003000003login                                   #include &quot;MacroInit.h&quot;
+
+void Macro_main(void)
+{
+	if(password == 2024){
+		login = 1;
+	}else{
+		login = 0;
+	}
+}Samkoon3.3#_%Macrion*_^Save0000000000000                  001init                                    #include &quot;MacroInit.h&quot;
+
+void Macro_main(void)
+{
+	frequency = 1000;
+	bursts = 20;
+	interpulse = 1;
+	numbers = 50;
+	duration = 1000;
+	period = 1000;
+	numbersCou = 50;
+	
+	checkbit = 0; //无校验位
+	speed = 3;  //波特率 115200
+	stopbit = 0; //1位停止位
+	databit = 1; //8位数据位
+	id = 1; //PLC id = 1
+	stopflag = 0;
+}Samkoon3.3#_%Macrion*_^Save0000000000000                  002run                                     #include &quot;MacroInit.h&quot;
+
+void Macro_main(void)
+{
+
+	char data[2];
+	if(start == 1){
+		startLW = 1;
+	}else{
+		startLW = 0;
+	}
+	if(start){
+		sendCount++;
+		stopflag = 1;
+		if(sendCount == 1){
+			numbersCou = numbers;
+		}
+		if(sendCount%20 == 0){
+			numbersCou--;
+		}
+		if(numbersCou == 0){
+			numbersCou = numbers;
+			start = 0;
+		}
+		switch(sendCount){
+			case 1:
+			{
+				data[0] = HIBYTE(frequency);
+				data[1] = LOBYTE(frequency);
+				sendFunc(0x01,data);
+				break;
+			}
+			case 2:
+			{
+				data[0] = HIBYTE(interpulse);
+				data[1] = LOBYTE(interpulse);
+				sendFunc(0x02,data);
+				break;
+			}	
+			case 3:
+			{
+				data[0] = HIBYTE(duration);
+				data[1] = LOBYTE(duration);
+				sendFunc(0x03,data);
+				break;
+			}
+			case 4:
+			{
+				data[0] = HIBYTE(bursts);
+				data[1] = LOBYTE(bursts);
+				sendFunc(0x04,data);
+				break;
+			}
+			case 5:
+			{
+				data[0] = HIBYTE(numbers);
+				data[1] = LOBYTE(numbers);
+				sendFunc(0x05,data);
+				break;
+			}	
+			case 6:
+			{
+				data[0] = HIBYTE(period);
+				data[1] = LOBYTE(period);
+				sendFunc(0x06,data);
+				break;
+			}
+			case 7:
+			{
+				data[0] = 0x00;
+				data[1] = 0x01;
+				sendFunc(0x07,data);
+				break;
+			}
+			default:
+				break;
+		}	
+	}else{
+		sendCount = 0;
+		if(stopflag == 1){
+			data[0] = 0x00;
+			data[1] = 0x02;
+			sendFunc(0x07,data);
+			stopflag = 0;
+		}
+	}
+}
+
+void sendFunc(char addr, char data[2])
+{
+	int ret = 0;
+	char pdata[8];
+	char receiveData[10];
+	
+	pdata[0] = 0x01;
+	pdata[1] = 0x06;
+	pdata[2] = 0x00;
+	pdata[3] = addr;
+	pdata[4] = data[0];
+	pdata[5] = data[1];
+	ret = CRC(pdata,6);		//对前面的数据，进行CRC校验
+	pdata[6] = (ret&amp;0xff);	//CRC的数据，进行高低位互换，P6取低位
+	pdata[7] = (ret&gt;&gt;8);		//P7取高位
+	PUTCHARS(0,pdata,8);	//发送函数，将整个数据发送到串口
+}Samkoon3.3#_%Macrion*_^Save0000000000000                  03password  1120100LW        16      login     0120100LB        1       15frequency 1120100LW        0       bursts    1120100LW        2       interpulse1120100LW        4       numbers   1120100LW        6       duration  1120100LW        8       period    1120100LW        10      numbersCou1120100LW        12      startLW   1120100LW        14      checkbit  1120100LW        60297   speed     1120100LW        60298   stopbit   1120100LW        60299   databit   1120100LW        60300   id        1120100LW        60302   stopflag  0120100LB        2       12startLW   1120100LW        14      start     0120100LB        0       sendCount 1120100LW        18      frequency 1120100LW        0       bursts    1120100LW        2       interpulse1120100LW        4       numbers   1120100LW        6       duration  1120100LW        8       period    1120100LW        10      numbersCou1120100LW        12      stopflag  0120100LB        2                                     " showHint="false" pattern="1" linecolor="$FFFFFF"/>
+<element name="element1" description="NE0000
+0
+1
+0
+0
+0
+0
+0
+
+
+16777215
+0
+15263976
+0
+15263976
+0
+0
+0
+16
+0
+100
+1
+LW
+2
+1
+0
+100
+1
+LW
+2
+0
+3
+0
+1
+999
+0
+
+
+1
+100
+1
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+-1
+0
+1
+0
+0
+0
+0
+0
+0
+" origin="477,273" bounds="365,83,417,101" selectmode="0" id="12">
+<element name="SHAPE1" origin="515,233" bounds="365,83,417,101" visible="false">
+<rect name="rc3" origin="463.168552,149.562044" bounds="365,83,417,101" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="794.083694,541.384429" bounds="365,83,417,101">
+<line name="line1" origin="365.5,150" bounds="365,83,365,101" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,83,6 365,101,2"/>
+<line name="line2" origin="426.5,165.526287" bounds="365,101,417,101" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,101,6 417,101,2"/>
+<line name="line3" origin="404.429706,82" bounds="365,83,417,101" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,83,6 417,83,2 417,101,2"/>
+</element>
+<rect name="rc1" origin="718.785584,173.883942" bounds="365,83,417,101" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1061.916242,172.383942" bounds="365,83,417,101" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1345.57415,178.83601" bounds="365,83,417,101" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="515,233" bounds="365,83,417,101">
+<rect name="rc3" origin="461.202858,233.788078" bounds="365,83,417,101" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="855.508512,638.288566" bounds="365,83,417,101" visible="false">
+<line name="line1" origin="365.5,150" bounds="365,83,365,101" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,83,6 365,101,2"/>
+<line name="line2" origin="426.5,165.526287" bounds="365,101,417,101" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,101,6 417,101,2"/>
+<line name="line3" origin="404.429706,82" bounds="365,83,417,101" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,83,6 417,83,2 417,101,2"/>
+</element>
+<rect name="rc1" origin="708.367822,195.014112" bounds="365,83,417,101" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1055.724514,189.288078" bounds="365,83,417,101" backcolor="$E8E8E8" frontcolor="$FFFFFF" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1322.478286,199.966181" bounds="365,83,417,101" backcolor="$C0C0" fontname="宋体" fontsize="16" text="999"/>
+</element>
+</element>
+<element name="element2" description="NE0000
+0
+1
+0
+0
+0
+0
+0
+
+
+16777215
+0
+15263976
+0
+15263976
+0
+0
+0
+16
+0
+100
+1
+LW
+4
+1
+0
+100
+1
+LW
+4
+0
+2
+0
+1
+99
+0
+
+
+1
+99
+1
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+-1
+0
+1
+0
+0
+0
+0
+0
+0
+" origin="270,308" bounds="158,118,210,136" selectmode="0" id="12">
+<element name="SHAPE1" origin="308,268" bounds="158,118,210,136" visible="false">
+<rect name="rc3" origin="256.168552,184.562044" bounds="158,118,210,136" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="587.083694,576.384429" bounds="158,118,210,136">
+<line name="line1" origin="158.5,185" bounds="158,118,158,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,118,6 158,136,2"/>
+<line name="line2" origin="219.5,200.526287" bounds="158,136,210,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,136,6 210,136,2"/>
+<line name="line3" origin="197.429706,117" bounds="158,118,210,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,118,6 210,118,2 210,136,2"/>
+</element>
+<rect name="rc1" origin="511.785584,208.883942" bounds="158,118,210,136" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="854.916242,207.383942" bounds="158,118,210,136" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1138.57415,213.83601" bounds="158,118,210,136" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="308,268" bounds="158,118,210,136">
+<rect name="rc3" origin="254.202858,268.788078" bounds="158,118,210,136" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="648.508512,673.288566" bounds="158,118,210,136" visible="false">
+<line name="line1" origin="158.5,185" bounds="158,118,158,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,118,6 158,136,2"/>
+<line name="line2" origin="219.5,200.526287" bounds="158,136,210,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,136,6 210,136,2"/>
+<line name="line3" origin="197.429706,117" bounds="158,118,210,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,118,6 210,118,2 210,136,2"/>
+</element>
+<rect name="rc1" origin="501.367822,230.014112" bounds="158,118,210,136" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="848.724514,224.288078" bounds="158,118,210,136" backcolor="$E8E8E8" frontcolor="$FFFFFF" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1115.478286,234.966181" bounds="158,118,210,136" backcolor="$C0C0" fontname="宋体" fontsize="16" text="99"/>
+</element>
+</element>
+<element name="element4" description="NE0000
+0
+1
+0
+0
+0
+0
+0
+
+
+16777215
+0
+15263976
+0
+15263976
+0
+0
+0
+16
+0
+100
+1
+LW
+8
+1
+0
+100
+1
+LW
+8
+0
+4
+0
+1
+9999
+0
+
+
+500
+5000
+1
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+-1
+0
+1
+0
+0
+0
+0
+0
+0
+" origin="268,345" bounds="156,155,208,173" selectmode="0" id="12">
+<element name="SHAPE1" origin="306,305" bounds="156,155,208,173" visible="false">
+<rect name="rc3" origin="254.168552,221.562044" bounds="156,155,208,173" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="585.083694,613.384429" bounds="156,155,208,173">
+<line name="line1" origin="156.5,222" bounds="156,155,156,173" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="156,155,6 156,173,2"/>
+<line name="line2" origin="217.5,237.526287" bounds="156,173,208,173" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="156,173,6 208,173,2"/>
+<line name="line3" origin="195.429706,154" bounds="156,155,208,173" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="156,155,6 208,155,2 208,173,2"/>
+</element>
+<rect name="rc1" origin="509.785584,245.883942" bounds="156,155,208,173" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="852.916242,244.383942" bounds="156,155,208,173" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1136.57415,250.83601" bounds="156,155,208,173" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="306,305" bounds="156,155,208,173">
+<rect name="rc3" origin="252.202858,305.788078" bounds="156,155,208,173" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="646.508512,710.288566" bounds="156,155,208,173" visible="false">
+<line name="line1" origin="156.5,222" bounds="156,155,156,173" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="156,155,6 156,173,2"/>
+<line name="line2" origin="217.5,237.526287" bounds="156,173,208,173" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="156,173,6 208,173,2"/>
+<line name="line3" origin="195.429706,154" bounds="156,155,208,173" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="156,155,6 208,155,2 208,173,2"/>
+</element>
+<rect name="rc1" origin="499.367822,267.014112" bounds="156,155,208,173" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="846.724514,261.288078" bounds="156,155,208,173" backcolor="$E8E8E8" frontcolor="$FFFFFF" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1113.478286,271.966181" bounds="156,155,208,173" backcolor="$C0C0" fontname="宋体" fontsize="16" text="9999"/>
+</element>
+</element>
+<element name="element12" description="TD0000
+23:14
+0
+16
+0
+0
+0
+15263976
+15263976
+12237498
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="523,272" bounds="280,6,343,32" selectmode="0" id="20">
+<element name="SHAPE1" origin="430,166" bounds="280,6,343,32" visible="false">
+<rect name="rc3" origin="378.168552,72.562044" bounds="280,6,343,32" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="709.083694,464.384429" bounds="280,6,343,32">
+<line name="line1" origin="280.5,73" bounds="280,6,280,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="280,6,6 280,32,2"/>
+<line name="line2" origin="341.5,88.526287" bounds="280,32,343,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="280,32,6 343,32,2"/>
+<line name="line3" origin="319.429706,5" bounds="280,6,343,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="280,6,6 343,6,2 343,32,2"/>
+</element>
+<rect name="rc1" origin="633.785584,96.883942" bounds="280,6,343,32" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="976.916242,95.383942" bounds="280,6,343,32" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1260.57415,101.83601" bounds="280,6,343,32" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="430,166" bounds="280,6,343,32">
+<rect name="rc3" origin="376.202858,156.788078" bounds="280,6,343,32" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="770.508512,561.288566" bounds="280,6,343,32" visible="false">
+<line name="line1" origin="280.5,73" bounds="280,6,280,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="280,6,6 280,32,2"/>
+<line name="line2" origin="341.5,88.526287" bounds="280,32,343,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="280,32,6 343,32,2"/>
+<line name="line3" origin="319.429706,5" bounds="280,6,343,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="280,6,6 343,6,2 343,32,2"/>
+</element>
+<rect name="rc1" origin="623.367822,118.014112" bounds="280,6,343,32" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="970.724514,112.288078" bounds="280,6,343,32" backcolor="$E8E8E8" frontcolor="$BABABA" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1237.478286,122.966181" bounds="280,6,343,32" backcolor="$C0C0" fontname="宋体" fontsize="16" text="23:14"/>
+</element>
+</element>
+<element name="element13" description="SB0000
+0
+1
+0
+0
+0
+0
+0
+
+
+0
+1
+1
+0
+0
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+宋体
+
+0
+0
+0
+4
+16
+0
+0
+0
+0
+0
+1
+0
+4
+15263976
+12237498
+15263976
+0
+0
+1
+1
+0
+0
+0
+0
+-1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="475,273" bounds="15,10,90,27" selectmode="0" id="3">
+<element name="SHAPE1" origin="204,165" bounds="15,10,90,27" visible="false">
+<rect name="rc3" origin="113.168552,76.562044" bounds="15,10,90,27" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="444.083694,468.384429" bounds="15,10,90,27">
+<line name="line1" origin="15.5,77" bounds="15,10,15,27" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="15,10,6 15,27,2"/>
+<line name="line2" origin="76.5,92.526287" bounds="15,27,90,27" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="15,27,6 90,27,2"/>
+<line name="line3" origin="54.429706,9" bounds="15,10,90,27" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="15,10,6 90,10,2 90,27,2"/>
+</element>
+<rect name="rc1" origin="368.785584,100.883942" bounds="15,10,90,27" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="711.916242,99.383942" bounds="15,10,90,27" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="995.57415,105.83601" bounds="15,10,90,27" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="204,165" bounds="15,10,90,27">
+<rect name="rc3" origin="111.202858,160.788078" bounds="15,10,90,27" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="505.508512,565.288566" bounds="15,10,90,27" visible="false">
+<line name="line1" origin="15.5,77" bounds="15,10,15,27" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="15,10,6 15,27,2"/>
+<line name="line2" origin="76.5,92.526287" bounds="15,27,90,27" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="15,27,6 90,27,2"/>
+<line name="line3" origin="54.429706,9" bounds="15,10,90,27" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="15,10,6 90,10,2 90,27,2"/>
+</element>
+<rect name="rc1" origin="358.367822,122.014112" bounds="15,10,90,27" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="705.724514,116.288078" bounds="15,10,90,27" backcolor="$E8E8E8" frontcolor="$BABABA" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="972.478286,126.966181" bounds="15,10,90,27" backcolor="$C0C0" fontname="宋体" fontsize="16" borderinterval="0"/>
+</element>
+</element>
+<element name="element14" description="DD0000
+01/01/24
+0
+16
+0
+0
+0
+15263976
+15263976
+12237498
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="468,258" bounds="198,4,280,33" selectmode="0" id="21">
+<element name="SHAPE1" origin="360,146" bounds="198,4,280,33" visible="false">
+<rect name="rc3" origin="296.168552,70.562044" bounds="198,4,280,33" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="627.083694,462.384429" bounds="198,4,280,33">
+<line name="line1" origin="198.5,71" bounds="198,4,198,33" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="198,4,6 198,33,2"/>
+<line name="line2" origin="259.5,86.526287" bounds="198,33,280,33" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="198,33,6 280,33,2"/>
+<line name="line3" origin="237.429706,3" bounds="198,4,280,33" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="198,4,6 280,4,2 280,33,2"/>
+</element>
+<rect name="rc1" origin="551.785584,94.883942" bounds="198,4,280,33" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="894.916242,93.383942" bounds="198,4,280,33" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1178.57415,99.83601" bounds="198,4,280,33" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="360,146" bounds="198,4,280,33">
+<rect name="rc3" origin="294.202858,154.788078" bounds="198,4,280,33" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="688.508512,559.288566" bounds="198,4,280,33" visible="false">
+<line name="line1" origin="198.5,71" bounds="198,4,198,33" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="198,4,6 198,33,2"/>
+<line name="line2" origin="259.5,86.526287" bounds="198,33,280,33" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="198,33,6 280,33,2"/>
+<line name="line3" origin="237.429706,3" bounds="198,4,280,33" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="198,4,6 280,4,2 280,33,2"/>
+</element>
+<rect name="rc1" origin="541.367822,116.014112" bounds="198,4,280,33" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="888.724514,110.288078" bounds="198,4,280,33" backcolor="$E8E8E8" frontcolor="$BABABA" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1155.478286,120.966181" bounds="198,4,280,33" backcolor="$C0C0" fontname="宋体" fontsize="16" text="01/01/24"/>
+</element>
+</element>
+<element name="element5" description="NE0000
+0
+1
+0
+0
+0
+0
+0
+
+
+16777215
+0
+15263976
+0
+15263976
+0
+0
+0
+16
+0
+100
+1
+LW
+10
+1
+0
+100
+1
+LW
+10
+0
+4
+0
+1
+9999
+0
+
+
+500
+9000
+1
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+0
+
+
+1
+1
+7
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+-1
+0
+1
+0
+0
+0
+0
+0
+0
+" origin="478,343" bounds="366,153,418,171" selectmode="0" id="12">
+<element name="SHAPE1" origin="516,303" bounds="366,153,418,171" visible="false">
+<rect name="rc3" origin="464.168552,219.562044" bounds="366,153,418,171" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="795.083694,611.384429" bounds="366,153,418,171">
+<line name="line1" origin="366.5,220" bounds="366,153,366,171" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="366,153,6 366,171,2"/>
+<line name="line2" origin="427.5,235.526287" bounds="366,171,418,171" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="366,171,6 418,171,2"/>
+<line name="line3" origin="405.429706,152" bounds="366,153,418,171" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="366,153,6 418,153,2 418,171,2"/>
+</element>
+<rect name="rc1" origin="719.785584,243.883942" bounds="366,153,418,171" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1062.916242,242.383942" bounds="366,153,418,171" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1346.57415,248.83601" bounds="366,153,418,171" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="516,303" bounds="366,153,418,171">
+<rect name="rc3" origin="462.202858,303.788078" bounds="366,153,418,171" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="856.508512,708.288566" bounds="366,153,418,171" visible="false">
+<line name="line1" origin="366.5,220" bounds="366,153,366,171" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="366,153,6 366,171,2"/>
+<line name="line2" origin="427.5,235.526287" bounds="366,171,418,171" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="366,171,6 418,171,2"/>
+<line name="line3" origin="405.429706,152" bounds="366,153,418,171" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="366,153,6 418,153,2 418,171,2"/>
+</element>
+<rect name="rc1" origin="709.367822,265.014112" bounds="366,153,418,171" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1056.724514,259.288078" bounds="366,153,418,171" backcolor="$E8E8E8" frontcolor="$FFFFFF" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1323.478286,269.966181" bounds="366,153,418,171" backcolor="$C0C0" fontname="宋体" fontsize="16" text="9999"/>
+</element>
+</element>
+<element name="element6" description="NE0000
+0
+1
+0
+0
+0
+0
+0
+
+
+12237498
+0
+15263976
+0
+15263976
+0
+0
+0
+16
+0
+100
+1
+LW
+0
+1
+0
+100
+1
+LW
+0
+0
+5
+0
+1
+99999
+0
+
+
+500
+50000
+1
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+-1
+0
+1
+0
+0
+0
+0
+0
+0
+" origin="477,272" bounds="154,80,208,97" selectmode="0" id="12">
+<element name="SHAPE1" origin="304,230" bounds="154,80,208,97" visible="false">
+<rect name="rc3" origin="252.168552,146.562044" bounds="154,80,208,97" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="583.083694,538.384429" bounds="154,80,208,97">
+<line name="line1" origin="154.5,147" bounds="154,80,154,97" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="154,80,6 154,97,2"/>
+<line name="line2" origin="215.5,162.526287" bounds="154,97,208,97" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="154,97,6 208,97,2"/>
+<line name="line3" origin="193.429706,79" bounds="154,80,208,97" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="154,80,6 208,80,2 208,97,2"/>
+</element>
+<rect name="rc1" origin="507.785584,170.883942" bounds="154,80,208,97" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="850.916242,169.383942" bounds="154,80,208,97" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1134.57415,175.83601" bounds="154,80,208,97" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="304,230" bounds="154,80,208,97">
+<rect name="rc3" origin="250.202858,230.788078" bounds="154,80,208,97" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="644.508512,635.288566" bounds="154,80,208,97" visible="false">
+<line name="line1" origin="154.5,147" bounds="154,80,154,97" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="154,80,6 154,97,2"/>
+<line name="line2" origin="215.5,162.526287" bounds="154,97,208,97" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="154,97,6 208,97,2"/>
+<line name="line3" origin="193.429706,79" bounds="154,80,208,97" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="154,80,6 208,80,2 208,97,2"/>
+</element>
+<rect name="rc1" origin="497.367822,192.014112" bounds="154,80,208,97" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="844.724514,186.288078" bounds="154,80,208,97" backcolor="$E8E8E8" frontcolor="$BABABA" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1111.478286,196.966181" bounds="154,80,208,97" backcolor="$C0C0" fontname="宋体" fontsize="16" text="99999"/>
+</element>
+</element>
+<element name="element8" description="ND0000
+0
+1
+0
+0
+0
+0
+0
+
+
+0
+16
+888
+0
+0
+0
+0
+100
+1
+LW
+12
+0
+3
+0
+0
+0
+0
+1
+0
+0
+65535
+0
+255
+0
+65280
+0
+0
+0
+
+
+0
+0
+0
+
+
+15263976
+15263976
+12237498
+0
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="478,273" bounds="342,227,398,243" selectmode="0" id="16">
+<element name="SHAPE1" origin="493,377" bounds="342,227,398,243" visible="false">
+<rect name="rc3" origin="440.168552,293.562044" bounds="342,227,398,243" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="771.083694,685.384429" bounds="342,227,398,243">
+<line name="line1" origin="342.5,294" bounds="342,227,342,243" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="342,227,6 342,243,2"/>
+<line name="line2" origin="403.5,309.526287" bounds="342,243,398,243" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="342,243,6 398,243,2"/>
+<line name="line3" origin="381.429706,226" bounds="342,227,398,243" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="342,227,6 398,227,2 398,243,2"/>
+</element>
+<rect name="rc1" origin="695.785584,317.883942" bounds="342,227,398,243" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1038.916242,316.383942" bounds="342,227,398,243" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1322.57415,322.83601" bounds="342,227,398,243" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="493,377" bounds="342,227,398,243">
+<rect name="rc3" origin="438.202858,377.788078" bounds="342,227,398,243" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="832.508512,782.288566" bounds="342,227,398,243" visible="false">
+<line name="line1" origin="342.5,294" bounds="342,227,342,243" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="342,227,6 342,243,2"/>
+<line name="line2" origin="403.5,309.526287" bounds="342,243,398,243" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="342,243,6 398,243,2"/>
+<line name="line3" origin="381.429706,226" bounds="342,227,398,243" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="342,227,6 398,227,2 398,243,2"/>
+</element>
+<rect name="rc1" origin="685.367822,339.014112" bounds="342,227,398,243" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1032.724514,333.288078" bounds="342,227,398,243" backcolor="$E8E8E8" frontcolor="$BABABA" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1299.478286,343.966181" bounds="342,227,398,243" backcolor="$C0C0" fontname="宋体" fontsize="16" text="888"/>
+</element>
+</element>
+<element name="element11" description="MD0000
+0
+1
+0
+0
+0
+0
+0
+
+
+15263976
+10724259
+15263976
+0
+1
+2
+0
+0
+100
+1
+LW
+14
+16
+0
+停止放电...
+1
+9
+16
+255
+正在放电...
+1
+9
+16
+0
+2
+0
+9
+16
+0
+3
+0
+9
+16
+0
+4
+0
+9
+16
+0
+5
+0
+9
+16
+0
+6
+0
+9
+16
+0
+7
+0
+9
+16
+0
+8
+0
+9
+16
+0
+9
+0
+9
+16
+0
+10
+0
+9
+16
+0
+11
+0
+9
+16
+0
+12
+0
+9
+16
+0
+13
+0
+9
+16
+0
+14
+0
+9
+16
+0
+15
+0
+9
+16
+0
+16
+0
+9
+16
+0
+17
+0
+9
+16
+0
+18
+0
+9
+16
+0
+19
+0
+9
+16
+0
+20
+0
+9
+16
+0
+21
+0
+9
+16
+0
+22
+0
+9
+16
+0
+23
+0
+9
+16
+0
+24
+0
+9
+16
+0
+25
+0
+9
+16
+0
+26
+0
+9
+16
+0
+27
+0
+9
+16
+0
+28
+0
+9
+16
+0
+29
+0
+9
+16
+0
+30
+0
+9
+16
+0
+31
+0
+9
+16
+0
+32
+0
+9
+16
+0
+33
+0
+9
+16
+0
+34
+0
+9
+16
+0
+35
+0
+9
+16
+0
+36
+0
+9
+16
+0
+37
+0
+9
+16
+0
+38
+0
+9
+16
+0
+39
+0
+9
+16
+0
+40
+0
+9
+16
+0
+41
+0
+9
+16
+0
+42
+0
+9
+16
+0
+43
+0
+9
+16
+0
+44
+0
+9
+16
+0
+45
+0
+9
+16
+0
+46
+0
+9
+16
+0
+47
+0
+9
+16
+0
+48
+0
+9
+16
+0
+49
+0
+9
+16
+0
+50
+0
+9
+16
+0
+51
+0
+9
+16
+0
+52
+0
+9
+16
+0
+53
+0
+9
+16
+0
+54
+0
+9
+16
+0
+55
+0
+9
+16
+0
+56
+0
+9
+16
+0
+57
+0
+9
+16
+0
+58
+0
+9
+16
+0
+59
+0
+9
+16
+0
+60
+0
+9
+16
+0
+61
+0
+9
+16
+0
+62
+0
+9
+16
+0
+63
+0
+9
+16
+0
+64
+0
+9
+16
+0
+65
+0
+9
+16
+0
+66
+0
+9
+16
+0
+67
+0
+9
+16
+0
+68
+0
+9
+16
+0
+69
+0
+9
+16
+0
+70
+0
+9
+16
+0
+71
+0
+9
+16
+0
+72
+0
+9
+16
+0
+73
+0
+9
+16
+0
+74
+0
+9
+16
+0
+75
+0
+9
+16
+0
+76
+0
+9
+16
+0
+77
+0
+9
+16
+0
+78
+0
+9
+16
+0
+79
+0
+9
+16
+0
+80
+0
+9
+16
+0
+81
+0
+9
+16
+0
+82
+0
+9
+16
+0
+83
+0
+9
+16
+0
+84
+0
+9
+16
+0
+85
+0
+9
+16
+0
+86
+0
+9
+16
+0
+87
+0
+9
+16
+0
+88
+0
+9
+16
+0
+89
+0
+9
+16
+0
+90
+0
+9
+16
+0
+91
+0
+9
+16
+0
+92
+0
+9
+16
+0
+93
+0
+9
+16
+0
+94
+0
+9
+16
+0
+95
+0
+9
+16
+0
+96
+0
+9
+16
+0
+97
+0
+9
+16
+0
+98
+0
+9
+16
+0
+99
+0
+9
+16
+0
+100
+0
+9
+16
+0
+101
+0
+9
+16
+0
+102
+0
+9
+16
+0
+103
+0
+9
+16
+0
+104
+0
+9
+16
+0
+105
+0
+9
+16
+0
+106
+0
+9
+16
+0
+107
+0
+9
+16
+0
+108
+0
+9
+16
+0
+109
+0
+9
+16
+0
+110
+0
+9
+16
+0
+111
+0
+9
+16
+0
+112
+0
+9
+16
+0
+113
+0
+9
+16
+0
+114
+0
+9
+16
+0
+115
+0
+9
+16
+0
+116
+0
+9
+16
+0
+117
+0
+9
+16
+0
+118
+0
+9
+16
+0
+119
+0
+9
+16
+0
+120
+0
+9
+16
+0
+121
+0
+9
+16
+0
+122
+0
+9
+16
+0
+123
+0
+9
+16
+0
+124
+0
+9
+16
+0
+125
+0
+9
+16
+0
+126
+0
+9
+16
+0
+127
+0
+9
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="452,80" bounds="352,6,443,32" selectmode="0" id="7">
+<element name="SHAPE1" origin="533,156" bounds="352,6,443,32" visible="false">
+<rect name="rc3" origin="450.168552,72.562044" bounds="352,6,443,32" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="781.083694,464.384429" bounds="352,6,443,32">
+<line name="line1" origin="352.5,73" bounds="352,6,352,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="352,6,6 352,32,2"/>
+<line name="line2" origin="413.5,88.526287" bounds="352,32,443,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="352,32,6 443,32,2"/>
+<line name="line3" origin="391.429706,5" bounds="352,6,443,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="352,6,6 443,6,2 443,32,2"/>
+</element>
+<rect name="rc1" origin="705.785584,96.883942" bounds="352,6,443,32" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1048.916242,95.383942" bounds="352,6,443,32" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1332.57415,101.83601" bounds="352,6,443,32" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="533,156" bounds="352,6,443,32">
+<rect name="rc3" origin="448.202858,156.788078" bounds="352,6,443,32" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="842.508512,561.288566" bounds="352,6,443,32" visible="false">
+<line name="line1" origin="352.5,73" bounds="352,6,352,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="352,6,6 352,32,2"/>
+<line name="line2" origin="413.5,88.526287" bounds="352,32,443,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="352,32,6 443,32,2"/>
+<line name="line3" origin="391.429706,5" bounds="352,6,443,32" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="352,6,6 443,6,2 443,32,2"/>
+</element>
+<rect name="rc1" origin="695.367822,118.014112" bounds="352,6,443,32" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1042.724514,112.288078" bounds="352,6,443,32" backcolor="$E8E8E8" frontcolor="$A3A3A3" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1309.478286,122.966181" bounds="352,6,443,32" backcolor="$C0C0" fontname="宋体" fontsize="16" fontcolor="$FF" borderinterval="0" text="正在放电..."/>
+</element>
+</element>
+<element name="element10" description="BB0000
+0
+1
+0
+0
+0
+0
+0
+
+
+0
+1
+1
+0
+0
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+宋体
+
+0
+0
+0
+4
+16
+0
+0
+0
+0
+0
+0
+0
+宋体
+
+0
+0
+0
+4
+16
+0
+0
+1
+0
+4
+0
+1
+0
+4
+1
+0
+15263976
+12237498
+15263976
+0
+15263976
+16777215
+15263976
+0
+0
+1
+0
+100
+1
+LB
+0
+0
+100
+1
+LB
+0
+0
+-1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="434,328" bounds="77,225,114,242" selectmode="0" id="1">
+<element name="SHAPE1" origin="319,359" bounds="77,225,114,242" visible="false">
+<rect name="rc3" origin="175.815738,282.281405" bounds="77,225,114,242" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="325.750883,357.468772" bounds="77,225,114,242" visible="false">
+<rect name="line1" origin="243.939663,333.156493" bounds="77,225,114,242" backcolor="$0" pattern="1" linetype="0" linewidth="0"/>
+<line name="line2" origin="316.939663,355.147649" bounds="77.154167,225.130769,113.845833,241.869231" backcolor="$494949" pattern="1" linetype="0" linewidth="0" points="77.154167,241.869231,6 77.154167,225.130769,2 113.845833,225.130769,2 107.216667,232.453846,2 96.579167,230.623077,2 83.166667,238.861538,2"/>
+<line name="line3" origin="316.939663,358.390879" bounds="77.154167,225.130769,113.845833,241.869231" pattern="1" linetype="0" linewidth="0" points="77.154167,241.869231,6 113.845833,241.869231,2 113.845833,225.130769,2 107.370833,230.623077,2 94.266667,228.269231,2 81.933333,237.815385,2"/>
+</element>
+<rect name="rc1" origin="527.424702,480.160173" bounds="78.15625,225.980769,112.84375,241.019231" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="174.003106,326.5" bounds="78.15625,225.980769,112.84375,241.019231" backcolor="$E8E8E8" frontcolor="$FFFFFF" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="832.428898,252.63017" bounds="77,225,114,242" backcolor="$C0C0" fontname="宋体" fontsize="16" borderinterval="0"/>
+</element>
+<element name="SHAPE0" origin="319,359" bounds="77,225,114,242">
+<rect name="rc3" origin="182.030186,279.918759" bounds="77,225,114,242" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="317,355" bounds="77,225,114,242" visible="false">
+<rect name="line3" origin="173,274" bounds="77,225,114,242" backcolor="$0" pattern="1" linetype="0" linewidth="0"/>
+<line name="line1" origin="323,360" bounds="77.154167,225.130769,113.845833,241.869231" pattern="1" linetype="0" linewidth="0" points="77.154167,241.869231,6 77.154167,225.130769,2 113.845833,225.130769,2 107.216667,232.453846,2 96.579167,230.623077,2 83.166667,238.861538,2"/>
+<line name="line2" origin="323,360" bounds="77.154167,225.130769,113.845833,241.869231" backcolor="$494949" pattern="1" linetype="0" linewidth="0" points="77.154167,241.869231,6 113.845833,241.869231,2 113.845833,225.130769,2 107.370833,230.623077,2 94.266667,228.269231,2 81.933333,237.815385,2"/>
+</element>
+<rect name="rc1" origin="386.863062,-294.133922" bounds="78.15625,225.980769,112.84375,241.019231" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="396.137028,-86.633922" bounds="78.15625,225.980769,112.84375,241.019231" backcolor="$E8E8E8" frontcolor="$BABABA" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1018.833386,511.255614" bounds="77,225,114,242" backcolor="$C0C0" fontname="宋体" fontsize="16" borderinterval="0"/>
+</element>
+</element>
+<element name="element7" description="BB0000
+0
+1
+0
+0
+0
+0
+0
+
+
+0
+1
+1
+0
+0
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+宋体
+
+0
+0
+0
+4
+16
+0
+0
+0
+0
+0
+0
+0
+宋体
+
+0
+0
+0
+4
+16
+0
+0
+1
+0
+4
+0
+1
+0
+4
+1
+0
+15263976
+12237498
+15263976
+0
+15263976
+12237498
+15263976
+1
+0
+0
+0
+100
+1
+LB
+0
+0
+100
+1
+LB
+0
+0
+-1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="514,327" bounds="157,224,194,241" selectmode="0" id="1">
+<element name="SHAPE1" origin="399,358" bounds="157,224,194,241" visible="false">
+<rect name="rc3" origin="255.815738,281.281405" bounds="157,224,194,241" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="405.750883,356.468772" bounds="157,224,194,241" visible="false">
+<rect name="line1" origin="323.939663,332.156493" bounds="157,224,194,241" backcolor="$0" pattern="1" linetype="0" linewidth="0"/>
+<line name="line2" origin="396.939663,354.147649" bounds="157.154167,224.130769,193.845833,240.869231" backcolor="$494949" pattern="1" linetype="0" linewidth="0" points="157.154167,240.869231,6 157.154167,224.130769,2 193.845833,224.130769,2 187.216667,231.453846,2 176.579167,229.623077,2 163.166667,237.861538,2"/>
+<line name="line3" origin="396.939663,357.390879" bounds="157.154167,224.130769,193.845833,240.869231" pattern="1" linetype="0" linewidth="0" points="157.154167,240.869231,6 193.845833,240.869231,2 193.845833,224.130769,2 187.370833,229.623077,2 174.266667,227.269231,2 161.933333,236.815385,2"/>
+</element>
+<rect name="rc1" origin="607.424702,479.160173" bounds="158.15625,224.980769,192.84375,240.019231" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="254.003106,325.5" bounds="158.15625,224.980769,192.84375,240.019231" backcolor="$E8E8E8" frontcolor="$BABABA" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="912.428898,251.63017" bounds="157,224,194,241" backcolor="$C0C0" fontname="宋体" fontsize="16" borderinterval="0"/>
+</element>
+<element name="SHAPE0" origin="399,358" bounds="157,224,194,241">
+<rect name="rc3" origin="262.030186,278.918759" bounds="157,224,194,241" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="397,354" bounds="157,224,194,241" visible="false">
+<rect name="line3" origin="253,273" bounds="157,224,194,241" backcolor="$0" pattern="1" linetype="0" linewidth="0"/>
+<line name="line1" origin="403,359" bounds="157.154167,224.130769,193.845833,240.869231" pattern="1" linetype="0" linewidth="0" points="157.154167,240.869231,6 157.154167,224.130769,2 193.845833,224.130769,2 187.216667,231.453846,2 176.579167,229.623077,2 163.166667,237.861538,2"/>
+<line name="line2" origin="403,359" bounds="157.154167,224.130769,193.845833,240.869231" backcolor="$494949" pattern="1" linetype="0" linewidth="0" points="157.154167,240.869231,6 193.845833,240.869231,2 193.845833,224.130769,2 187.370833,229.623077,2 174.266667,227.269231,2 161.933333,236.815385,2"/>
+</element>
+<rect name="rc1" origin="466.863062,-295.133922" bounds="158.15625,224.980769,192.84375,240.019231" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="476.137028,-87.633922" bounds="158.15625,224.980769,192.84375,240.019231" backcolor="$E8E8E8" frontcolor="$BABABA" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1098.833386,510.255614" bounds="157,224,194,241" backcolor="$C0C0" fontname="宋体" fontsize="16" borderinterval="0"/>
+</element>
+</element>
+<element name="element3" description="NE0000
+0
+1
+0
+0
+0
+0
+0
+
+
+16777215
+0
+15263976
+0
+15263976
+0
+0
+0
+16
+0
+100
+1
+LW
+6
+1
+0
+100
+1
+LW
+6
+0
+3
+0
+1
+999
+0
+
+
+1
+500
+1
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+-1
+0
+1
+0
+0
+0
+0
+0
+0
+" origin="477,308" bounds="365,118,417,136" selectmode="0" id="12">
+<element name="SHAPE1" origin="515,268" bounds="365,118,417,136" visible="false">
+<rect name="rc3" origin="463.168552,184.562044" bounds="365,118,417,136" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="794.083694,576.384429" bounds="365,118,417,136">
+<line name="line1" origin="365.5,185" bounds="365,118,365,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,118,6 365,136,2"/>
+<line name="line2" origin="426.5,200.526287" bounds="365,136,417,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,136,6 417,136,2"/>
+<line name="line3" origin="404.429706,117" bounds="365,118,417,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,118,6 417,118,2 417,136,2"/>
+</element>
+<rect name="rc1" origin="718.785584,208.883942" bounds="365,118,417,136" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1061.916242,207.383942" bounds="365,118,417,136" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1345.57415,213.83601" bounds="365,118,417,136" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="515,268" bounds="365,118,417,136">
+<rect name="rc3" origin="461.202858,268.788078" bounds="365,118,417,136" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="855.508512,673.288566" bounds="365,118,417,136" visible="false">
+<line name="line1" origin="365.5,185" bounds="365,118,365,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,118,6 365,136,2"/>
+<line name="line2" origin="426.5,200.526287" bounds="365,136,417,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,136,6 417,136,2"/>
+<line name="line3" origin="404.429706,117" bounds="365,118,417,136" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="365,118,6 417,118,2 417,136,2"/>
+</element>
+<rect name="rc1" origin="708.367822,230.014112" bounds="365,118,417,136" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="1055.724514,224.288078" bounds="365,118,417,136" backcolor="$E8E8E8" frontcolor="$FFFFFF" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1322.478286,234.966181" bounds="365,118,417,136" backcolor="$C0C0" fontname="宋体" fontsize="16" text="999"/>
+</element>
+</element>
+</sheet>
+<sheet name="登录界面" description="0000000016777215000000000000000000000000                                                  0000000000000000000000000000048100000273000000000000000000000000000000000000000000000000                                                                      " visible="false" showHint="false">
+<rect name="Lock1" origin="38,32" bounds="481,0,100481,100000" locked="true" id="100" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
+<rect name="Lock2" origin="38,32" bounds="0,273,100000,100273" locked="true" id="100" showHint="false" backcolor="$0" pattern="1" linetype="0"/>
+<rect name="Lock3" origin="38,32" bounds="0,273,481,273" locked="true" id="100" showHint="false" pattern="1" linecolor="$FFFFFF"/>
+<rect name="Lock4" origin="38,32" bounds="481,0,481,273" locked="true" id="100" showHint="false" pattern="1" linecolor="$FFFFFF"/>
+<rect name="rect1" description="SP0000
+登录界面.jpg
+登录界面.jpg
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="38,32" bounds="0,0,481,273" selectmode="0" id="57" pattern="254" picture="登录界面.jpg" linetype="0"/>
+<element name="element13" description="SB0000
+0
+1
+0
+0
+0
+0
+0
+
+
+1
+1
+1
+0
+0
+0
+0
+100
+1
+LB
+1
+0
+0
+0
+
+
+宋体
+
+0
+0
+0
+4
+16
+0
+0
+0
+0
+0
+1
+0
+4
+15263976
+12237498
+15263976
+0
+0
+0
+0
+0
+0
+0
+0
+-1
+1
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+" origin="197,350" bounds="158,163,290,182" selectmode="0" id="3">
+<element name="SHAPE1" origin="309,316" bounds="158,163,290,182" visible="false">
+<rect name="rc3" origin="256.168552,229.562044" bounds="158,163,290,182" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="587.083694,621.384429" bounds="158,163,290,182">
+<line name="line1" origin="158.5,230" bounds="158,163,158,182" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,163,6 158,182,2"/>
+<line name="line2" origin="219.5,245.526287" bounds="158,182,290,182" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,182,6 290,182,2"/>
+<line name="line3" origin="197.429706,162" bounds="158,163,290,182" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,163,6 290,163,2 290,182,2"/>
+</element>
+<rect name="rc1" origin="511.785584,253.883942" bounds="158,163,290,182" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="854.916242,252.383942" bounds="158,163,290,182" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1138.57415,258.83601" bounds="158,163,290,182" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="309,316" bounds="158,163,290,182">
+<rect name="rc3" origin="254.202858,313.788078" bounds="158,163,290,182" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="648.508512,718.288566" bounds="158,163,290,182" visible="false">
+<line name="line1" origin="158.5,230" bounds="158,163,158,182" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,163,6 158,182,2"/>
+<line name="line2" origin="219.5,245.526287" bounds="158,182,290,182" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,182,6 290,182,2"/>
+<line name="line3" origin="197.429706,162" bounds="158,163,290,182" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,163,6 290,163,2 290,182,2"/>
+</element>
+<rect name="rc1" origin="501.367822,275.014112" bounds="158,163,290,182" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="848.724514,269.288078" bounds="158,163,290,182" backcolor="$E8E8E8" frontcolor="$BABABA" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1115.478286,279.966181" bounds="158,163,290,182" backcolor="$C0C0" fontname="宋体" fontsize="16" borderinterval="0"/>
+</element>
+</element>
+<element name="element6" description="NE0000
+0
+1
+0
+0
+0
+0
+0
+
+
+12237498
+0
+15263976
+0
+15263976
+0
+0
+0
+16
+0
+100
+1
+LW
+16
+1
+0
+100
+1
+LW
+16
+0
+4
+0
+1
+9999
+0
+
+
+
+
+0
+0
+0
+0
+0
+
+
+0
+0
+0
+
+
+0
+0
+0
+0
+
+
+1
+0
+0
+0
+0
+0
+0
+
+
+1
+0
+0
+1
+0
+1
+1
+0
+0
+0
+0
+0
+0
+" origin="477,275" bounds="158,119,290,138" selectmode="0" id="12">
+<element name="SHAPE1" origin="308,272" bounds="158,119,290,138" visible="false">
+<rect name="rc3" origin="256.168552,185.562044" bounds="158,119,290,138" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="587.083694,577.384429" bounds="158,119,290,138">
+<line name="line1" origin="158.5,186" bounds="158,119,158,138" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,119,6 158,138,2"/>
+<line name="line2" origin="219.5,201.526287" bounds="158,138,290,138" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,138,6 290,138,2"/>
+<line name="line3" origin="197.429706,118" bounds="158,119,290,138" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,119,6 290,119,2 290,138,2"/>
+</element>
+<rect name="rc1" origin="511.785584,209.883942" bounds="158,119,290,138" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="854.916242,208.383942" bounds="158,119,290,138" backcolor="$E0E0E0" pattern="1" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1138.57415,214.83601" bounds="158,119,290,138" backcolor="$C0C0" fontname="宋体" fontsize="16"/>
+</element>
+<element name="SHAPE0" origin="308,272" bounds="158,119,290,138">
+<rect name="rc3" origin="254.202858,269.788078" bounds="158,119,290,138" backcolor="$C0C0" linetype="0"/>
+<element name="ExternUnit" origin="648.508512,674.288566" bounds="158,119,290,138" visible="false">
+<line name="line1" origin="158.5,186" bounds="158,119,158,138" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,119,6 158,138,2"/>
+<line name="line2" origin="219.5,201.526287" bounds="158,138,290,138" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,138,6 290,138,2"/>
+<line name="line3" origin="197.429706,118" bounds="158,119,290,138" backcolor="$C0C0" linecolor="$FFFFFF" linetype="0" points="158,119,6 290,119,2 290,138,2"/>
+</element>
+<rect name="rc1" origin="501.367822,231.014112" bounds="158,119,290,138" backcolor="$E8E8E8" linecolor="$FFFFFF" linetype="0"/>
+<rect name="rc2" origin="848.724514,225.288078" bounds="158,119,290,138" backcolor="$E8E8E8" frontcolor="$BABABA" linecolor="$FFFFFF" linetype="0"/>
+<text name="txt1" origin="1115.478286,235.966181" bounds="158,119,290,138" backcolor="$C0C0" fontname="宋体" fontsize="16" text="9999"/>
+</element>
+</element>
+</sheet>
+</vg>
